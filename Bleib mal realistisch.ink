@@ -23,7 +23,7 @@ Nathanael blieb in vollem Erstaunen auf der Straße stehen; da trat Siegmund lac
 + [Nicht hingehen] -> Clara
 
 === Clara ===
-... und geht nicht hin. Geht heim, weil Clara sich nicht gut fuhlt. Vergisst Olympia.
+... und geht nicht hin. Geht heim, aus irgendeinem Grund. Vergisst Olympia.
 -> DONE
 
 === Feier ===
@@ -37,35 +37,35 @@ Liest sich die Briefe durch, vermisst Clara, geht nicht mehr zu Olympia.
 -> DONE
 
 === Ring ===
-Gleichgultig warf er sie beiseite.
-+ [Findet den Ring nicht] -> Leer
-+ [Findet Ring] -> Vorfall
+Gleichgültig warf er sie beiseite.
++ [Findet Ring nicht] -> Leer
++ [Findet ihn] -> Vorfall
 
 === Leer ===
-Kann Ring nicht finden, sucht sehr lange danach, kommt zu spat, Spalanzani erzahlt ihm dass Olympia nicht mehr da ist, geht zuruck zu Wohnung, liest Briefe.
+Kann Ring nicht finden, sucht sehr lange danach, kommt zu spät, Spalanzani erzählt ihm, dass Olympia nicht mehr da ist, geht zurück zu seiner Wohnung, liest Briefe.
 -> DONE
 
 === Vorfall ===
 ... steckte ihn ein und rannte herüber zu Olimpia. Schon auf der Treppe, auf dem Flur, vernahm er ein wunderliches Getöse; es schien aus Spalanzanis Studierzimmer herauszuschallen. – Ein Stampfen – ein Klirren – ein Stoßen – Schlagen gegen die Tür, dazwischen Flüche und Verwünschungen. Laß los – laß los – Infamer – Verruchter! – Darum Leib und Leben daran gesetzt? – ha ha ha ha! – so haben wir nicht gewettet – ich, ich hab die Augen gemacht – ich das Räderwerk – dummer Teufel mit deinem Räderwerk – verfluchter Hund von einfältigem Uhrmacher – fort mit dir – Satan – halt – Peipendreher – teuflische Bestie! – halt – fort – laß los! – Es waren Spalanzanis und des gräßlichen Coppelius Stimmen, die so durcheinander schwirrten und tobten. Hinein stürzte Nathanael von namenloser Angst ergriffen. Der Professor hatte eine weibliche Figur bei den Schultern gepackt, der Italiener Coppola bei den Füßen, die zerrten und zogen sie hin und her, streitend in voller Wut um den Besitz.
 Spalanzani wälzte sich auf der Erde, Glasscherben hatten ihm Kopf, Brust und Arm zerschnitten, wie aus Springquellen strömte das Blut empor. Aber er raffte seine Kräfte zusammen. – »Ihm nach – ihm nach, was zauderst du? – Coppelius – Coppelius, mein bestes Automat hat er mir geraubt – Zwanzig Jahre daran gearbeitet – Leib und Leben daran gesetzt – das Räderwerk – Sprache – Gang – mein – die Augen – die Augen dir gestohlen. – Verdammter – Verfluchter – ihm nach – hol mir Olimpia – da hast du die Augen! –« Nun sah Nathanael, wie ein Paar blutige Augen auf dem Boden liegend ihn anstarrten, die ergriff Spalanzani mit der unverletzten Hand und warf sie nach ihm, daß sie seine Brust trafen. – Da packte ihn der Wahnsinn mit glühenden Krallen und fuhr in sein Inneres hinein Sinn und Gedanken zerreißend. »Hui – hui – hui! – Feuerkreis – Feuerkreis! dreh dich Feuerkreis – lustig – lustig! – Holzpüppchen hui schön Holzpüppchen dreh dich –« damit warf er sich auf den Professor und drückte ihm die Kehle zu.
-+ [Rettung] -> Tollhaus
++ [SpalanzanisRettung] -> Tollhaus
 + [FataleEntscheidung] -> SpalanzanisMord
 
 === SpalanzanisMord ===
-Nathanael bringt Spalanzani um, da die Leute zu spat gekommen sind. Gefangnis?
+Nathanael bringt Spalanzani um, da die Leute zu spät gekommen sind. Gefängnis?
 -> DONE
 
 ==== Tollhaus ===
 Er hätte ihn erwürgt, aber das Getöse hatte viele Menschen herbeigelockt, die drangen ein, rissen den wütenden Nathanael auf und retteten so den Professor, der gleich verbunden wurde. Siegmund, so stark er war, vermochte nicht den Rasenden zu bändigen; der schrie mit fürchterlicher Stimme immerfort: »Holzpüppchen dreh dich« und schlug um sich mit geballten Fäusten. Endlich gelang es der vereinten Kraft mehrerer, ihn zu überwältigen, indem sie ihn zu Boden warfen und banden. Seine Worte gingen unter in entsetzlichem tierischen Gebrüll. So in gräßlicher Raserei tobend wurde er nach dem Tollhause gebracht.
 
 »Holzpüppchen dreh dich – Holzpüppchen dreh dich« – und mit gewaltiger Kraft faßte er Clara und wollte sie herabschleudern, aber Clara krallte sich in verzweifelnder Todesangst fest an das Geländer. Lothar hörte den Rasenden toben, er hörte Claras Angstgeschrei, gräßliche Ahnung durchflog ihn, er rannte herauf, die Tür der zweiten Treppe war verschlossen – stärker hallte Claras Jammergeschrei. Unsinnig vor Wut und Angst stieß er gegen die Tür, die endlich aufsprang – Matter und matter wurden nun Claras Laute: » Hülfe – rettet – rettet –« so erstarb die Stimme in den Lüften. »Sie ist hin – ermordet von dem Rasenden«, so schrie Lothar. Auch die Tür zur Galerie war zugeschlagen. – Die Verzweiflung gab ihm Riesenkraft, er sprengte die Tür aus den Angeln. Gott im Himmel –Clara schwebte von dem rasenden Nathanael erfaßt über der Galerie in den Lüften –
-+ [Hilfe] -> Rettung
-+ [FataleEntscheidung] -> Mord
++ [Hoffnung] -> Rettung
++ [Zu spät] -> Mord
 
 === Mord ===
-Clara tot.
+Clara konnte sich nicht mehr festhalten und ist gestorben.
 + [Revanche] -> Lothar 
-+ Lothar bleibt stehen wegen Schock -> Normal
++ Lothar bleibt stehen wegen Schock. -> Normal
 
 === Lothar ===
 Lothar bringt aus Wut und Verzweiflung N um.
