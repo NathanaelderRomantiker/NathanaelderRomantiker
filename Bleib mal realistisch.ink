@@ -59,22 +59,32 @@ Nathanael bringt Spalanzani um, da die Leute zu spat gekommen sind. Gefangnis?
 Er hätte ihn erwürgt, aber das Getöse hatte viele Menschen herbeigelockt, die drangen ein, rissen den wütenden Nathanael auf und retteten so den Professor, der gleich verbunden wurde. Siegmund, so stark er war, vermochte nicht den Rasenden zu bändigen; der schrie mit fürchterlicher Stimme immerfort: »Holzpüppchen dreh dich« und schlug um sich mit geballten Fäusten. Endlich gelang es der vereinten Kraft mehrerer, ihn zu überwältigen, indem sie ihn zu Boden warfen und banden. Seine Worte gingen unter in entsetzlichem tierischen Gebrüll. So in gräßlicher Raserei tobend wurde er nach dem Tollhause gebracht.
 
 »Holzpüppchen dreh dich – Holzpüppchen dreh dich« – und mit gewaltiger Kraft faßte er Clara und wollte sie herabschleudern, aber Clara krallte sich in verzweifelnder Todesangst fest an das Geländer. Lothar hörte den Rasenden toben, er hörte Claras Angstgeschrei, gräßliche Ahnung durchflog ihn, er rannte herauf, die Tür der zweiten Treppe war verschlossen – stärker hallte Claras Jammergeschrei. Unsinnig vor Wut und Angst stieß er gegen die Tür, die endlich aufsprang – Matter und matter wurden nun Claras Laute: » Hülfe – rettet – rettet –« so erstarb die Stimme in den Lüften. »Sie ist hin – ermordet von dem Rasenden«, so schrie Lothar. Auch die Tür zur Galerie war zugeschlagen. – Die Verzweiflung gab ihm Riesenkraft, er sprengte die Tür aus den Angeln. Gott im Himmel –Clara schwebte von dem rasenden Nathanael erfaßt über der Galerie in den Lüften –
-+ [Noch am Leben] -> Rettung
-+ [Tod] -> Mord
++ [Hilfe] -> Rettung
++ [FataleEntscheidung] -> Mord
 
 === Mord ===
 Clara tot.
-+[Noch ein Mord] -> Lothar 
-+[Normaler Verlauf] -> Selbstmord
++ [Revanche] -> Lothar 
++ Lothar bleibt stehen wegen Schock -> Normal
 
 === Lothar ===
 Lothar bringt aus Wut und Verzweiflung N um.
 -> DONE
 
-=== Selbstmord==
-Nun raste Nathanael herum auf der Galerie und sprang hoch in die Lüfte und schrie »Feuerkreis dreh dich – Feuerkreis dreh dich« – Die Menschen liefen auf das wilde Geschrei zusammen; unter ihnen ragte riesengroß der Advokat Coppelius hervor, der eben in die Stadt gekommen und gerades Weges nach dem Markt geschritten war. Man wollte herauf, um sich des Rasenden zu bemächtigen, da lachte Coppelius sprechend: »Ha ha – wartet nur, der kommt schon herunter von selbst«, und schaute wie die übrigen hinauf. Nathanael blieb plötzlich wie erstarrt stehen, er bückte sich herab, wurde den Coppelius gewahr und mit dem gellenden Schrei: »Ha! Sköne Oke – Sköne Oke«, sprang er über das Geländer.
+=== Normal ===
+Nun raste Nathanael herum auf der Galerie... 
++ [Freiheit] -> Selbstmord
++ [KeinZurückMehr] -> Massaker
+
+=== Selbstmord ===
+...und sprang hoch in die Lüfte und schrie »Feuerkreis dreh dich – Feuerkreis dreh dich« – Die Menschen liefen auf das wilde Geschrei zusammen unter ihnen ragte riesengroß der Advokat Coppelius hervor, der eben in die Stadt gekommen und gerades Weges nach dem Markt geschritten war. Man wollte herauf, um sich des Rasenden zu bemächtigen, da lachte Coppelius sprechend: »Ha ha – wartet nur, der kommt schon herunter von selbst«, und schaute wie die übrigen hinauf. Nathanael blieb plötzlich wie erstarrt stehen, er bückte sich herab, wurde den Coppelius gewahr und mit dem gellenden Schrei: »Ha! Sköne Oke – Sköne Oke«, sprang er über das Geländer.
 Als Nathanael mit zerschmettertem Kopf auf dem, Steinpflaster lag, war Coppelius im Gewühl verschwunden.
 -> DONE
+
+=== Massaker ===
+...und bringt Lothar auch um. 
+und sprang hoch in die Lüfte und schrie »Feuerkreis dreh dich – Feuerkreis dreh dich« – Die Menschen liefen auf das wilde Geschrei zusammen unter ihnen ragte riesengroß der Advokat Coppelius hervor, der eben in die Stadt gekommen und gerades Weges nach dem Markt geschritten war. Man wollte herauf, um sich des Rasenden zu bemächtigen, da lachte Coppelius sprechend: »Ha ha – wartet nur, der kommt schon herunter von selbst«, und schaute wie die übrigen hinauf. Nathanael blieb plötzlich wie erstarrt stehen, er bückte sich herab, wurde den Coppelius gewahr und mit dem gellenden Schrei: »Ha! Sköne Oke – Sköne Oke«, sprang er über das Geländer.
+Als Nathanael mit zerschmettertem Kopf auf dem, Steinpflaster lag, war Coppelius im Gewühl verschwunden.
 -> DONE
 
 === Rettung ===
@@ -82,7 +92,6 @@ nur mit einer Hand hatte sie noch die Eisenstäbe umklammert.
 Rasch wie der Blitz erfaßte Lothar die Schwester, zog sie hinein, und schlug im demselben Augenblick mit geballter Faust dem Wütenden ins Gesicht, daß er zurückprallte und die Todesbeute fallen ließ.
 Lothar rannte herab, die ohnmächtige Schwester in den Armen. – Sie war gerettet. – Nun raste Nathanael herum auf der Galerie und sprang hoch in die Lüfte und schrie »Feuerkreis dreh dich – Feuerkreis dreh dich« – Die Menschen liefen auf das wilde Geschrei zusammen; unter ihnen ragte riesengroß der Advokat Coppelius hervor, der eben in die Stadt gekommen und gerades Weges nach dem Markt geschritten war. Man wollte herauf, um sich des Rasenden zu bemächtigen, da lachte Coppelius sprechend: »Ha ha – wartet nur, der kommt schon herunter von selbst«, und schaute wie die übrigen hinauf. Nathanael blieb plötzlich wie erstarrt stehen, er bückte sich herab, wurde den Coppelius gewahr und mit dem gellenden Schrei: »Ha! Sköne Oke – Sköne Oke«, sprang er über das Geländer.
 Als Nathanael mit zerschmettertem Kopf auf dem, Steinpflaster lag, war Coppelius im Gewühl verschwunden.
-
 
 -> DONE
 
